@@ -36,6 +36,11 @@ class ViewController: UIViewController, GKGameCenterControllerDelegate {
     }
     
     
+    
+    
+    //Game Center Functions
+    
+    
     func authPlayer(){
         let localPlayer = GKLocalPlayer.localPlayer()
         
